@@ -1,8 +1,8 @@
-# light emitting lamp
+# photon emitting lantern
 
-Light emitting lamp.
+Photon emitting lantern.
 
-![lel](lel.png)
+![phemla](phemla.png)
 
 Featured:
 
